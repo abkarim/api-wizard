@@ -1,4 +1,5 @@
 # API server boilerplate for PHP and Apache
+For more about apache and htaccess https://github.com/abkarim/apache
 
 ## Tech
 
