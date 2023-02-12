@@ -1,0 +1,5 @@
+RewriteEngine On
+
+# Deny folder index listing
+
+Options -Indexes
